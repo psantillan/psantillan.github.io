@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1c5abc57d9ffc5415a3d",
-    "url": "/static/css/main.08ad853b.chunk.css"
+    "revision": "7124407a64660b9ba41e",
+    "url": "/static/css/main.40d19f18.chunk.css"
   },
   {
-    "revision": "1c5abc57d9ffc5415a3d",
-    "url": "/static/js/main.1c5abc57.chunk.js"
+    "revision": "7124407a64660b9ba41e",
+    "url": "/static/js/main.7124407a.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/static/media/JUMP_Bleed.d8de6b7d.svg"
   },
   {
-    "revision": "39521d31c4a5a78c73bb914af5055ff7",
+    "revision": "d3f32385e37394af82bab92fa2ce0e05",
     "url": "/index.html"
   }
 ];
